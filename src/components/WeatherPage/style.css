@@ -1,0 +1,20 @@
+.weatherForm{
+    width: 500px;
+    margin: 0 auto;
+    text-align: center;
+}
+.weatherForm Button{
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+.weatherData{
+        width: 300px;
+        text-align: center;
+        margin: 0 auto;
+}
+.weatherData h2{
+    margin-bottom: 8px;
+}
+.weatherData ul li{
+    text-align: left;
+}
